@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/webdevtanvir" target="blank"><img src="https://img.shields.io/twitter/follow/webdevtanvir?logo=twitter&style=for-the-badge" alt="webdevtanvir" /></a> </p>
 
-- 🔭 I’m currently working on AB Prime Innovator [Event management](https://nexteventnews.com/)
+- 🔭 I’m currently working on AB Prime Innovator (https://nexteventnews.com/)
 
-- 🌱 I’m currently learning, Tailwind, React.js. **Frameworks**
+- 🌱 I’m currently learning, Tailwind, React.js.
 
 - 👯 I’m looking to collaborate on frontend web development projects, leveraging my skills in HTML, CSS, JavaScript, and frameworks like React.js [Web Development](https://seoartcreators.com/)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/webdevtanvir/](https://www.linkedin.com/in/webdevtanvir/)
 
-- 💬 Ask me about React.js **React**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **tanvir@seoartcreators.com**
 
